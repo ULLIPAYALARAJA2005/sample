@@ -1,3 +1,3 @@
 # print("h")
 print("hello......")
-sajid = 10
+sajid = 5
